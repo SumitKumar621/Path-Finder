@@ -104,6 +104,3 @@ Keep station names and fare values in the format expected by the parser in `inte
 - Improve memory management with smart pointers and automatic cleanup.
 - Add automated tests for routes, interchanges, and invalid station names.
 
-## Notes
-
-This project is a data-structures-based metro path finder. The station lists and fare values come from the included text files; verify that the supplied data and fare rules match the metro network you intend to model.
